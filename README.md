@@ -70,7 +70,7 @@ Home Page
 
 Card Info
 
-![image alt](https://github.com/mayanksharmagu/Rental-Booking-Platform/blob/07dff2abe1f1a057172928aa6833c81869dfc5c2/card%20info.png)
+![image alt](https://github.com/PRASHANT98178/Rental-Booking-Platform/blob/1aea55a8267e811aae89a49eaede1e5b98949c7d/Card%20Info.jpeg)
 
 
 ## 📌 Future Enhancements
