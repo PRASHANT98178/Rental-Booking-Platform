@@ -66,7 +66,7 @@ node app.js
 ## 📸 UI Screenshots
 Home Page
 
-![image alt](https://github.com/mayanksharmagu/Rental-Booking-Platform/blob/af8c238cb3e7901509ee7cd4af2901955b5294e7/Homepage.png)
+![image alt](https://github.com/PRASHANT98178/Rental-Booking-Platform/blob/618c07489de1a5087dd1ac206957c14b4b5a641d/Home%20Page.jpeg)
 
 Card Info
 
